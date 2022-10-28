@@ -151,6 +151,8 @@ iframe {
 }
 
 input {
+	border: none;
+	border-radius: 15px;
 	margin-top: 1rem;
 }
 
